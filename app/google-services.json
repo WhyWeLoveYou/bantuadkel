@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "788674451736",
+    "firebase_url": "https://akupengencoding-63a5c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "akupengencoding-63a5c",
+    "storage_bucket": "akupengencoding-63a5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788674451736:android:b5d0a611ceea14c8f7a66d",
+        "android_client_info": {
+          "package_name": "com.defan.freechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788674451736-t09r4lr0e2r98v9cl2ijk5vs8drpeplo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJRWakPGgjZ_CFwuVxlerIwd0hlgN7jJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788674451736-t09r4lr0e2r98v9cl2ijk5vs8drpeplo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788674451736:android:58fb256ac4237171f7a66d",
+        "android_client_info": {
+          "package_name": "com.whyweloveyou.chatrt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788674451736-t09r4lr0e2r98v9cl2ijk5vs8drpeplo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJRWakPGgjZ_CFwuVxlerIwd0hlgN7jJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788674451736-t09r4lr0e2r98v9cl2ijk5vs8drpeplo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
